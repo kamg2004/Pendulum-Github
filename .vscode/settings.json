@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Pendulum-Github.sln"
+    "dotnet.defaultSolution": "Pendulum-Github.slnx"
 }
